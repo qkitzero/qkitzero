@@ -1,7 +1,5 @@
 👋 Hi, I’m qkitzero
 
-# my skills
-
 [![My Skills](https://skillicons.dev/icons?i=go,python,ts,react,nextjs,docker,gcp,aws)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
