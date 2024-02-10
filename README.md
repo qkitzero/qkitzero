@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=synthwave)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
