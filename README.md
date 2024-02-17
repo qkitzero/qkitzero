@@ -9,4 +9,4 @@ I'm particularly interested in backend architecture and am actively learning thr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=synthwave)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&theme=onedark&row=2)](https://github.com/ryo-ma/github-profile-trophy)
