@@ -5,19 +5,13 @@ I'm particularly interested in backend architecture and am actively learning thr
 
 [![My Skills](https://skillicons.dev/icons?i=go,python,ts,react,nextjs,docker,gcp,aws)](https://skillicons.dev)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=onedark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=onedark" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=onedark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=onedark" height="160"/>
+</p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=onedark)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
