@@ -6,8 +6,8 @@ I'm particularly interested in backend architecture and am actively learning thr
 [![My Skills](https://skillicons.dev/icons?i=go,python,ts,react,nextjs,docker,gcp,aws)](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=onedark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=onedark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=onedark" height="200"/>
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
