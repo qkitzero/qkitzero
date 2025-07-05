@@ -7,6 +7,6 @@ I'm particularly interested in backend architecture and am actively learning thr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
