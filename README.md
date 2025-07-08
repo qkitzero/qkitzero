@@ -5,8 +5,8 @@ I'm particularly interested in backend architecture and am actively learning thr
 
 [![My Skills](https://skillicons.dev/icons?i=go,python,ts,react,nextjs,docker,gcp,aws)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
