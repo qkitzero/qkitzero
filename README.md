@@ -5,7 +5,7 @@ I'm particularly interested in backend architecture and am actively learning thr
 
 ![](https://komarev.com/ghpvc/?username=qkitzero)
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,ts,react,nextjs,docker,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,python,react,nextjs,docker,gcp,aws)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
