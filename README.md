@@ -1,11 +1,21 @@
-👋 Hi, I’m qkitzero.
-I'm a full-stack engineer with experience in Go and TypeScript.
-I graduated with a bachelor's degree in computer science in 2023 and am currently working on system development at a listed company in Japan.
-I'm particularly interested in backend architecture and am actively learning through my work.
-
 ![](https://komarev.com/ghpvc/?username=qkitzero)
 
+👋 Hi, I’m qkitzero.
+
+I’m a software engineer with experience in Go and TypeScript.
+
+🎓 Bachelor’s degree in Computer Science (2023).
+
+⚙️ Focused on backend architecture and system design.
+
 [![My Skills](https://skillicons.dev/icons?i=go,ts,python,react,nextjs,docker,gcp,aws)](https://skillicons.dev)
+
+| My Project                                                                                     | Description                                        |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [User Service](https://github.com/qkitzero/user-service)                                       | Microservice for user management                   |
+| [Auth Service](https://github.com/qkitzero/auth-service)                                       | Microservice for authentication and authorization  |
+| [Microservices Architecture Demo](https://github.com/qkitzero/microservices-architecture-demo) | Microservices architecture development environment |
+| [Ant PR](https://github.com/qkitzero/ant-pr)                                                   | Github Actions for small, beautiful pull requests  |
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
