@@ -14,7 +14,7 @@ Focused on **backend architecture** and **system design**.
 | [Microservices Architecture Demo](https://github.com/qkitzero/microservices-architecture-demo) | Microservices architecture development environment |                                                                                                                        |
 | [Ant PR](https://github.com/qkitzero/ant-pr)                                                   | Github Actions for small, beautiful pull requests  |                                                                                                                        |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
