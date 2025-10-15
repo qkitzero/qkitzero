@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=qkitzero)
 
-👋 Hi, I’m **qkitzero**.  
-I’m a software engineer with experience in **Go** and **TypeScript**.  
+👋 Hi, I’m qkitzero.  
+I’m a software engineer with experience in Go and TypeScript.  
 Bachelor’s degree in Computer Science (2023).  
-Focused on **backend architecture** and **system design**.
+Focused on backend architecture and system design.
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,python,express,nestjs,fastapi,react,nextjs,tailwind,docker,gcp,aws)](https://skillicons.dev)
 
