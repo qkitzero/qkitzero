@@ -7,7 +7,7 @@ Focused on backend architecture and system design.
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,python,express,nestjs,fastapi,react,nextjs,tailwind,docker,gcp,aws)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 | My Project                                                                                     | Description                                        | Test                                                                                                                     |
