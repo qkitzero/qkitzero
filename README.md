@@ -18,5 +18,6 @@ Focused on backend architecture and system design.
 | [Ant PR](https://github.com/qkitzero/ant-pr)                                                   | Github Actions for small, beautiful pull requests  |                                                                                                                          |
 | [Event Service](https://github.com/qkitzero/event-service)                                     | Microservice for managing time-based events        | [![codecov](https://codecov.io/gh/qkitzero/event-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/event-service) |
 | [Life Calendar Frontend](https://github.com/qkitzero/life-calendar-frontend)                   | Visualize Your Weeks of Life                       |                                                                                                                          |
+| [Life Calendar](https://github.com/qkitzero/life-calendar)                                     | Life Calendar development environment              |                                                                                                                          |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
