@@ -1,16 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=qkitzero)
 
-👋 Hi, I’m qkitzero.  
-I’m a software engineer with experience in Go and TypeScript.  
-Bachelor’s degree in Computer Science (2023).  
-Focused on backend architecture and system design.
+👋 Hi, I'm **qkitzero** — a software engineer specializing in Go and TypeScript.  
+🎓 B.S. in Computer Science (2023).  
+🔧 Passionate about backend architecture, distributed systems, and clean design.
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,python,express,nestjs,fastapi,react,nextjs,tailwind,docker,gcp,aws)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-| My Project                                                                                     | Language                                                                                                     | Description                                        | Test                                                                                                                         |
+| Project                                                                                        | Main Language                                                                                                | Overview                                           | Test Coverage                                                                                                                |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | [User Service](https://github.com/qkitzero/user-service)                                       | ![GitHub top language](https://img.shields.io/github/languages/top/qkitzero/user-service)                    | Microservice for user management                   | [![codecov](https://codecov.io/gh/qkitzero/user-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/user-service)       |
 | [Auth Service](https://github.com/qkitzero/auth-service)                                       | ![GitHub top language](https://img.shields.io/github/languages/top/qkitzero/auth-service)                    | Microservice for authentication and authorization  | [![codecov](https://codecov.io/gh/qkitzero/auth-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/auth-service)       |
