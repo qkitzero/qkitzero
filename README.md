@@ -4,7 +4,7 @@
 🎓 B.S. in Computer Science (2023).  
 🔧 Passionate about backend architecture, distributed systems, and clean design.
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,python,express,nestjs,fastapi,react,nextjs,tailwind,docker,gcp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,express,nestjs,vite,jest,react,nextjs,tailwind,python,fastapi,docker,gcp,aws)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
