@@ -20,4 +20,6 @@
 | [Life Calendar Frontend](https://github.com/qkitzero/life-calendar-frontend)                   | ![GitHub top language](https://img.shields.io/github/languages/top/qkitzero/life-calendar-frontend)          | Visualize Your Weeks of Life                       |                                                                                                                              |
 | [Life Calendar](https://github.com/qkitzero/life-calendar)                                     | ![GitHub top language](https://img.shields.io/github/languages/top/qkitzero/life-calendar)                   | Life Calendar development environment              |                                                                                                                              |
 
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graphs?user=qkitzero)](https://github.com/qkitzero/github-contribution-growth-graph)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
