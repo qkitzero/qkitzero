@@ -21,6 +21,6 @@
 | [Life Calendar](https://github.com/qkitzero/life-calendar)                                       | 🐳 Life Calendar development environment                                              |                                                                                                                              |
 | [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) | 📈 Visualize GitHub contribution growth over time as dynamic, embeddable chart images |                                                                                                                              |
 
-[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graphs?user=qkitzero)](https://github.com/qkitzero/github-contribution-growth-graph)
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graphs?user=qkitzero&from=2024-12-01&theme=green)](https://github.com/qkitzero/github-contribution-growth-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
