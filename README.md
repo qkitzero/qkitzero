@@ -9,6 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-12-01&size=small)](https://github.com/qkitzero/github-contribution-growth-graph)
+
 | Project                                                                                          | Overview                                                                              | Badges                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [User Service](https://github.com/qkitzero/user-service)                                         | 👤 Microservice for user management                                                   | [![codecov](https://codecov.io/gh/qkitzero/user-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/user-service)                                         |
@@ -20,7 +22,5 @@
 | [Life Calendar Frontend](https://github.com/qkitzero/life-calendar-frontend)                     | 📅 Visualize Your Weeks of Life                                                       |                                                                                                                                                                |
 | [Life Calendar](https://github.com/qkitzero/life-calendar)                                       | 🐳 Life Calendar development environment                                              |                                                                                                                                                                |
 | [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) | 📈 Visualize GitHub contribution growth over time as dynamic, embeddable chart images | [![codecov](https://codecov.io/gh/qkitzero/github-contribution-growth-graph/graph/badge.svg)](https://codecov.io/gh/qkitzero/github-contribution-growth-graph) |
-
-[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graphs?user=qkitzero&from=2024-12-01&theme=green)](https://github.com/qkitzero/github-contribution-growth-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
