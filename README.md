@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-12-01&size=small)](https://github.com/qkitzero/github-contribution-growth-graph)
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-12-01&theme=blue&size=small)](https://github.com/qkitzero/github-contribution-growth-graph)
 
 | Project                                                                                          | Overview                                                                              | Badges                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
