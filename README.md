@@ -6,8 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,express,nestjs,vite,jest,react,nextjs,tailwind,python,fastapi,docker,gcp,aws)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-12-01&theme=blue&size=small)](https://github.com/qkitzero/github-contribution-growth-graph)
 
@@ -23,4 +23,4 @@
 | [Life Calendar](https://github.com/qkitzero/life-calendar)                                       | 🐳 Life Calendar development environment                                              |                                                                                                                                                                |
 | [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) | 📈 Visualize GitHub contribution growth over time as dynamic, embeddable chart images | [![codecov](https://codecov.io/gh/qkitzero/github-contribution-growth-graph/graph/badge.svg)](https://codecov.io/gh/qkitzero/github-contribution-growth-graph) |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
