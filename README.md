@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=qkitzero)
 
 👋 Hi, I'm **qkitzero** — a software engineer specializing in Go and TypeScript.  
-🎓 B.S. in Computer Science (2023).  
+🎓 B.S. in Computer Science and Engineering (2023).  
 🔧 Passionate about backend architecture, distributed systems, and clean design.
 
 [![My Skills](https://skillicons.dev/icons?i=go,ts,express,nestjs,vite,jest,npm,react,nextjs,tailwind,python,fastapi,docker,gcp,aws)](https://skillicons.dev)
