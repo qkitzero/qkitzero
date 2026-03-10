@@ -21,7 +21,7 @@
 | [Ant PR](https://github.com/qkitzero/ant-pr)                                                     | 🐜 Github Actions for small, beautiful pull requests                                  |                                                                                                                                                                |
 | [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) | 📈 Visualize GitHub contribution growth over time as dynamic, embeddable chart images | [![codecov](https://codecov.io/gh/qkitzero/github-contribution-growth-graph/graph/badge.svg)](https://codecov.io/gh/qkitzero/github-contribution-growth-graph) |
 
-[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-11-01&theme=blue)](https://github.com/qkitzero/github-contribution-growth-graph)
 [![GitHub Language Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/languages?user=qkitzero&from=2024-11-01)](https://github.com/qkitzero/github-contribution-growth-graph)
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-11-01)](https://github.com/qkitzero/github-contribution-growth-graph)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
