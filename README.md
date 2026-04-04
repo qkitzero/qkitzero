@@ -12,13 +12,20 @@
 ### Projects
 
 <details open>
-<summary>🏗️ Microservices Platform</summary>
+<summary>🏗️ Microservices</summary>
 
 - [User Service](https://github.com/qkitzero/user-service) — 👤 Microservice for user management [![codecov](https://codecov.io/gh/qkitzero/user-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/user-service)
 - [Auth Service](https://github.com/qkitzero/auth-service) — 🔐 Microservice for authentication and authorization [![codecov](https://codecov.io/gh/qkitzero/auth-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/auth-service)
 - [Event Service](https://github.com/qkitzero/event-service) — 🔔 Microservice for managing time-based events [![codecov](https://codecov.io/gh/qkitzero/event-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/event-service)
 - [Logging Service](https://github.com/qkitzero/logging-service) — 🗒️ Microservices for logging [![codecov](https://codecov.io/gh/qkitzero/logging-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/logging-service)
 - [Microservices Architecture Demo](https://github.com/qkitzero/microservices-architecture-demo) — 🐳 Microservices architecture demo development environment
+
+</details>
+
+<details>
+<summary>🤖 AI</summary>
+
+- [Kage Bunshin](https://github.com/qkitzero/kage-bunshin) — 🥷 AI agents for knowledge work, not code
 
 </details>
 
