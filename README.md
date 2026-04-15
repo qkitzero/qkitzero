@@ -14,10 +14,10 @@
 <details open>
 <summary>🏗️ Microservices</summary>
 
-- [User Service](https://github.com/qkitzero/user-service) — 👤 Microservice for user management [![codecov](https://codecov.io/gh/qkitzero/user-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/user-service)
-- [Auth Service](https://github.com/qkitzero/auth-service) — 🔐 Microservice for authentication and authorization [![codecov](https://codecov.io/gh/qkitzero/auth-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/auth-service)
-- [Event Service](https://github.com/qkitzero/event-service) — 🔔 Microservice for managing time-based events [![codecov](https://codecov.io/gh/qkitzero/event-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/event-service)
-- [Logging Service](https://github.com/qkitzero/logging-service) — 🗒️ Microservices for logging [![codecov](https://codecov.io/gh/qkitzero/logging-service/graph/badge.svg)](https://codecov.io/gh/qkitzero/logging-service)
+- [User Service](https://github.com/qkitzero/user-service) — 👤 Microservice for user management
+- [Auth Service](https://github.com/qkitzero/auth-service) — 🔐 Microservice for authentication and authorization
+- [Event Service](https://github.com/qkitzero/event-service) — 🔔 Microservice for managing time-based events
+- [Logging Service](https://github.com/qkitzero/logging-service) — 🗒️ Microservices for logging
 - [Microservices Architecture Demo](https://github.com/qkitzero/microservices-architecture-demo) — 🐳 Microservices architecture demo development environment
 
 </details>
@@ -41,7 +41,7 @@
 <summary>🛠️ Developer Tools</summary>
 
 - [Ant PR](https://github.com/qkitzero/ant-pr) — 🐜 Github Actions for small, beautiful pull requests
-- [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) — 📈 Dynamically generated cumulative contribution graph for your GitHub README [![codecov](https://codecov.io/gh/qkitzero/github-contribution-growth-graph/graph/badge.svg)](https://codecov.io/gh/qkitzero/github-contribution-growth-graph)
+- [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) — 📈 Dynamically generated cumulative contribution graph for your GitHub README
 
 </details>
 
