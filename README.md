@@ -22,6 +22,14 @@
 
 </details>
 
+<details open>
+<summary>🛠️ Developer Tools</summary>
+
+- [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) — 📈 Dynamically generated cumulative contribution graph for your GitHub README
+- [Ant PR](https://github.com/qkitzero/ant-pr) — 🐜 Github Actions for small, beautiful pull requests
+
+</details>
+
 <details>
 <summary>🤖 AI</summary>
 
@@ -34,14 +42,6 @@
 
 - [Life Calendar Frontend](https://github.com/qkitzero/life-calendar-frontend) — 📅 Visualize Your Weeks of Life
 - [Life Calendar](https://github.com/qkitzero/life-calendar) — 🐳 Life Calendar development environment
-
-</details>
-
-<details>
-<summary>🛠️ Developer Tools</summary>
-
-- [Ant PR](https://github.com/qkitzero/ant-pr) — 🐜 Github Actions for small, beautiful pull requests
-- [Github Contribution Growth Graph](https://github.com/qkitzero/github-contribution-growth-graph) — 📈 Dynamically generated cumulative contribution graph for your GitHub README
 
 </details>
 
