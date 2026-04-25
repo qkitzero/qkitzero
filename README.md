@@ -18,6 +18,7 @@
 - [Auth Service](https://github.com/qkitzero/auth-service) — 🔐 Microservice for authentication and authorization
 - [Event Service](https://github.com/qkitzero/event-service) — 🔔 Microservice for managing time-based events
 - [Logging Service](https://github.com/qkitzero/logging-service) — 🗒️ Microservices for logging
+- [Workout Service](https://github.com/qkitzero/workout-service) — 💪 Microservice for workout management
 - [Microservices Architecture Demo](https://github.com/qkitzero/microservices-architecture-demo) — 🐳 Microservices architecture demo development environment
 
 </details>
@@ -44,6 +45,16 @@
 - [Life Calendar](https://github.com/qkitzero/life-calendar) — 🐳 Life Calendar development environment
 
 </details>
+
+<!--
+<details>
+<summary>💪 Muscloot</summary>
+
+- [Muscloot Frontend](https://github.com/qkitzero/muscloot-frontend) — 💪 Track Your Workouts
+- [Muscloot](https://github.com/qkitzero/muscloot) — 🐳 Muscloot development environment
+
+</details>
+-->
 
 <!-- [![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-11-01&size=large&v=2026-03-18)](https://github.com/qkitzero/github-contribution-growth-graph) -->
 
