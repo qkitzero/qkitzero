@@ -9,8 +9,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkitzero&layout=donut&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qkitzero&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Projects
-
 <details open>
 <summary>🏗️ Microservices</summary>
 
@@ -56,8 +54,18 @@
 </details>
 -->
 
-<!-- [![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-11-01&size=large&v=2026-03-18)](https://github.com/qkitzero/github-contribution-growth-graph) -->
+<details>
+<summary>📈 GitHub Contribution Growth Graph</summary>
+
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-11-01&v=2026-05-02)](https://github.com/qkitzero/github-contribution-growth-graph)
+
+</details>
+
+<details open>
+<summary>📊 GitHub Language Growth Graph</summary>
 
 [![GitHub Language Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/languages?user=qkitzero&from=2024-11-01&v=2026-05-02)](https://github.com/qkitzero/github-contribution-growth-graph)
+
+</details>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
