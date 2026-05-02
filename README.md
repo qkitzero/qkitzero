@@ -58,6 +58,6 @@
 
 <!-- [![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-11-01&size=large&v=2026-03-18)](https://github.com/qkitzero/github-contribution-growth-graph) -->
 
-[![GitHub Language Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/languages?user=qkitzero&from=2024-11-01&size=large&v=2026-03-18)](https://github.com/qkitzero/github-contribution-growth-graph)
+[![GitHub Language Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/languages?user=qkitzero&from=2024-11-01&size=large&v=2026-05-02)](https://github.com/qkitzero/github-contribution-growth-graph)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=qkitzero&rank=-?,-C&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
