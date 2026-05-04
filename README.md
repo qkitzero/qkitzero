@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary>📅 Life Calendar <a href="https://life-calendar.qkitzero.xyz" target="_blank" rel="noopener noreferrer">↗</a></summary>
+<summary>📅 Life Calendar <a href="https://life-calendar.qkitzero.xyz">↗</a></summary>
 
 - [Life Calendar Frontend](https://github.com/qkitzero/life-calendar-frontend) — 📅 Visualize Your Weeks of Life
 - [Life Calendar](https://github.com/qkitzero/life-calendar) — 🐳 Life Calendar development environment
