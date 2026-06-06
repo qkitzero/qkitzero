@@ -30,13 +30,6 @@
 </details>
 
 <details>
-<summary>🤖 AI</summary>
-
-- [Kage Bunshin](https://github.com/qkitzero/kage-bunshin) — 🥷 AI agents for knowledge work, not code
-
-</details>
-
-<details>
 <summary>📅 Life Calendar <a href="https://life-calendar.qkitzero.xyz">↗</a></summary>
 
 - [Life Calendar Frontend](https://github.com/qkitzero/life-calendar-frontend) — 📅 Visualize Your Weeks of Life
@@ -44,15 +37,20 @@
 
 </details>
 
-<!--
 <details>
-<summary>💪 Muscloot</summary>
+<summary>🏋️ Muscloot <a href="https://muscloot.qkitzero.xyz">↗</a></summary>
 
-- [Muscloot Frontend](https://github.com/qkitzero/muscloot-frontend) — 💪 Track Your Workouts
+- [Muscloot Frontend](https://github.com/qkitzero/muscloot-frontend) — 🏋️ Track Your Workouts
 - [Muscloot](https://github.com/qkitzero/muscloot) — 🐳 Muscloot development environment
 
 </details>
--->
+
+<details>
+<summary>🤖 AI</summary>
+
+- [Kage Bunshin](https://github.com/qkitzero/kage-bunshin) — 🥷 AI agents for knowledge work, not code
+
+</details>
 
 <details>
 <summary>📈 GitHub Contribution Growth Graph</summary>
