@@ -17,6 +17,7 @@
 - [Event Service](https://github.com/qkitzero/event-service) — 🔔 Microservice for managing time-based events
 - [Logging Service](https://github.com/qkitzero/logging-service) — 🗒️ Microservices for logging
 - [Workout Service](https://github.com/qkitzero/workout-service) — 💪 Microservice for workout management
+- [Fitness Service](https://github.com/qkitzero/fitness-service) — 🏃 Microservice for fitness management
 - [Microservices Architecture Demo](https://github.com/qkitzero/microservices-architecture-demo) — 🐳 Microservices architecture demo development environment
 
 </details>
