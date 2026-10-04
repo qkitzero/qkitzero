@@ -46,13 +46,6 @@
 </details>
 
 <details>
-<summary>🤖 AI</summary>
-
-- [Kage Bunshin](https://github.com/qkitzero/kage-bunshin) — 🥷 AI agents for knowledge work, not code
-
-</details>
-
-<details>
 <summary>📈 GitHub Contribution Growth Graph</summary>
 
 [![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=qkitzero&from=2024-11-01&v=2026-05-02)](https://github.com/qkitzero/github-contribution-growth-graph)
