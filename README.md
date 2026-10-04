@@ -31,6 +31,14 @@
 </details>
 
 <details>
+<summary>🩺 Kenko Keiei <a href="https://kenko-keiei.qkitzero.xyz">↗</a></summary>
+
+- [Kenko Keiei Frontend](https://github.com/qkitzero/kenko-keiei-frontend) — 🩺 Manage Fitness Measurement Data
+- [Kenko Keiei](https://github.com/qkitzero/kenko-keiei) — 🐳 Kenko Keiei development environment
+
+</details>
+
+<details>
 <summary>📅 Life Calendar <a href="https://life-calendar.qkitzero.xyz">↗</a></summary>
 
 - [Life Calendar Frontend](https://github.com/qkitzero/life-calendar-frontend) — 📅 Visualize Your Weeks of Life
